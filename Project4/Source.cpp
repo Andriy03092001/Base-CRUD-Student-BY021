@@ -14,7 +14,6 @@ int currentIndex = 0;
 
 
 void showAllStudents() {
-	cout << "List students: " << endl;
 	bool isEmpty = true;
 	for (int i = 0; i < sizeGroup; i++)
 	{
